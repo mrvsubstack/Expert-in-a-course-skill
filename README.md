@@ -1,4 +1,5 @@
 # Expert in a Course
+<img width="1671" height="1671" alt="result_image 35" src="https://github.com/user-attachments/assets/5a495c41-e0db-457e-85ab-193134ed13af" />
 
 A [Claude](https://claude.ai) skill for designing, building, and refining a complete interactive course on any topic — structure, lessons, activities, assessments, learner support, and (optionally) a live, self-hostable site with a source video embedded lesson-by-lesson.
 
